@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A51579-ED92-432E-8DFA-3A0400CFD5E4}|ProductService.Api\\ProductService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A51579-ED92-432E-8DFA-3A0400CFD5E4}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4FB159-8649-41FC-8EC4-5F7A28157F98}|AuthService\\AuthService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4FB159-8649-41FC-8EC4-5F7A28157F98}|AuthService\\AuthService.csproj|solutionrelative:authservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PM\\Downloads\\eureka-server\\build.gradle||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF8C881-469C-4FF1-89D4-2B6A98610BD4}|PricingService.Api\\PricingService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\pricingservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF8C881-469C-4FF1-89D4-2B6A98610BD4}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDEDDE2-93A3-4F49-9FBF-CCD997C114D5}|PolicyService.Api\\PolicyService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\policyservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDEDDE2-93A3-4F49-9FBF-CCD997C114D5}|PolicyService.Api\\PolicyService.Api.csproj|solutionrelative:policyservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D562B7A4-B580-4198-A93D-93E7029FE45E}|PolicySearchService.Api\\PolicySearchService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\policysearchservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D562B7A4-B580-4198-A93D-93E7029FE45E}|PolicySearchService.Api\\PolicySearchService.Api.csproj|solutionrelative:policysearchservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625ACA7E-BAB8-4788-BDFC-9CA620E901FA}|PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\paymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625ACA7E-BAB8-4788-BDFC-9CA620E901FA}|PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:paymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7E4050-C82D-4872-813C-9D7DF8339FA1}|DocumentService.Api\\DocumentService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\documentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7E4050-C82D-4872-813C-9D7DF8339FA1}|DocumentService.Api\\DocumentService.Api.csproj|solutionrelative:documentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDC114E-00BF-4AB6-BEFE-50BE20939495}|ChatService.Api\\ChatService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\chatservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDC114E-00BF-4AB6-BEFE-50BE20939495}|ChatService.Api\\ChatService.Api.csproj|solutionrelative:chatservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3477C7BC-780F-4A8C-B598-7F677FB1C365}|AuthService.Api\\AuthService.Api.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3477C7BC-780F-4A8C-B598-7F677FB1C365}|AuthService.Api\\AuthService.Api.csproj|solutionrelative:authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B9EF5D-57AB-4A4F-B059-C3C49B5EBFF1}|ChatService\\ChatService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\chatservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B9EF5D-57AB-4A4F-B059-C3C49B5EBFF1}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E61CD5-B007-4ED5-95BC-48A75C8DEA49}|AuthService.Test\\AuthService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E61CD5-B007-4ED5-95BC-48A75C8DEA49}|AuthService.Test\\AuthService.Test.csproj|solutionrelative:authservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B45244-642B-4905-8735-DF880780D22E}|DocumentService.Test\\DocumentService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\documentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B45244-642B-4905-8735-DF880780D22E}|DocumentService.Test\\DocumentService.Test.csproj|solutionrelative:documentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99A89FF-AB04-481C-B7FC-A9734597240E}|DocumentService\\DocumentService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\documentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99A89FF-AB04-481C-B7FC-A9734597240E}|DocumentService\\DocumentService.csproj|solutionrelative:documentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D68391-66A6-4415-AA73-A775EA1E831B}|ChatService.Test\\ChatService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\chatservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D68391-66A6-4415-AA73-A775EA1E831B}|ChatService.Test\\ChatService.Test.csproj|solutionrelative:chatservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB00329-1ACB-4003-81BE-AFA4694E4DF7}|PolicySearchService.Test\\PolicySearchService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\policysearchservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB00329-1ACB-4003-81BE-AFA4694E4DF7}|PolicySearchService.Test\\PolicySearchService.Test.csproj|solutionrelative:policysearchservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ED59E6-6FB0-4EBB-938A-82409284227F}|PolicySearchService\\PolicySearchService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\policysearchservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ED59E6-6FB0-4EBB-938A-82409284227F}|PolicySearchService\\PolicySearchService.csproj|solutionrelative:policysearchservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9255E0-DEBE-4CCC-A745-1C6113B71F9B}|PaymentService.Test\\PaymentService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\paymentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9255E0-DEBE-4CCC-A745-1C6113B71F9B}|PaymentService.Test\\PaymentService.Test.csproj|solutionrelative:paymentservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B5D62D-6C3D-4B8F-AFA1-CEE78BB32A96}|PaymentService\\PaymentService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\paymentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B5D62D-6C3D-4B8F-AFA1-CEE78BB32A96}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BD7BA1-58C3-4095-B686-56CC67ED32D0}|PricingService.Test\\PricingService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\pricingservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BD7BA1-58C3-4095-B686-56CC67ED32D0}|PricingService.Test\\PricingService.Test.csproj|solutionrelative:pricingservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9C4EF-2561-49E7-BEC3-47E61B19511D}|PricingService\\PricingService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\pricingservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD9C4EF-2561-49E7-BEC3-47E61B19511D}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013AC94F-0BE7-468B-9AA8-33A37A037FF3}|PolicyService.Test\\PolicyService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\policyservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013AC94F-0BE7-468B-9AA8-33A37A037FF3}|PolicyService.Test\\PolicyService.Test.csproj|solutionrelative:policyservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11426B89-623D-4674-AA2A-7372B692C146}|PolicyService\\PolicyService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\policyservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11426B89-623D-4674-AA2A-7372B692C146}|PolicyService\\PolicyService.csproj|solutionrelative:policyservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE62B38-DFAA-4808-AE37-A788C63CB830}|ProductService.Test\\ProductService.Test.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE62B38-DFAA-4808-AE37-A788C63CB830}|ProductService.Test\\ProductService.Test.csproj|solutionrelative:productservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20570375-1FBF-43F9-A35D-30018707B540}|ProductService\\ProductService.csproj|c:\\users\\pm\\source\\repos\\\u0111\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20570375-1FBF-43F9-A35D-30018707B540}|ProductService\\ProductService.csproj|solutionrelative:productservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "build.gradle",
+              "DocumentMoniker": "C:\\Users\\PM\\Downloads\\eureka-server\\build.gradle",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\eureka-server\\build.gradle",
+              "ToolTip": "C:\\Users\\PM\\Downloads\\eureka-server\\build.gradle",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\eureka-server\\build.gradle",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-03T08:49:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ProductService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ProductService.Api\\Program.cs",
+              "RelativeToolTip": "ProductService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:28:03.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PricingService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PricingService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PricingService.Api\\Program.cs",
+              "RelativeToolTip": "PricingService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:26:52.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicyService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PolicyService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicyService.Api\\Program.cs",
+              "RelativeToolTip": "PolicyService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:26:24.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicySearchService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PolicySearchService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicySearchService.Api\\Program.cs",
+              "RelativeToolTip": "PolicySearchService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:25:55.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PaymentService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PaymentService.Api\\Program.cs",
+              "RelativeToolTip": "PaymentService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:25:32.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\DocumentService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\DocumentService.Api\\Program.cs",
+              "RelativeToolTip": "DocumentService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:24:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ChatService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChatService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ChatService.Api\\Program.cs",
+              "RelativeToolTip": "ChatService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:23:20.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\AuthService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\AuthService.Api\\Program.cs",
+              "RelativeToolTip": "AuthService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:13:17.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\AuthService\\Class1.cs",
+              "RelativeDocumentMoniker": "AuthService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\AuthService\\Class1.cs",
+              "RelativeToolTip": "AuthService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:11:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\AuthService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AuthService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\AuthService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "AuthService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:12:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\DocumentService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DocumentService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\DocumentService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "DocumentService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:59:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\DocumentService\\Class1.cs",
+              "RelativeDocumentMoniker": "DocumentService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\DocumentService\\Class1.cs",
+              "RelativeToolTip": "DocumentService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:58:54.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ChatService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ChatService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ChatService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "ChatService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:58:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ChatService\\Class1.cs",
+              "RelativeDocumentMoniker": "ChatService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ChatService\\Class1.cs",
+              "RelativeToolTip": "ChatService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:58:03.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicySearchService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PolicySearchService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicySearchService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "PolicySearchService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:57:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicySearchService\\Class1.cs",
+              "RelativeDocumentMoniker": "PolicySearchService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicySearchService\\Class1.cs",
+              "RelativeToolTip": "PolicySearchService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:57:14.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PaymentService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PaymentService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PaymentService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "PaymentService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:56:04.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PaymentService\\Class1.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PaymentService\\Class1.cs",
+              "RelativeToolTip": "PaymentService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:55:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PricingService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PricingService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PricingService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "PricingService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:55:18.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PricingService\\Class1.cs",
+              "RelativeDocumentMoniker": "PricingService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PricingService\\Class1.cs",
+              "RelativeToolTip": "PricingService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:55:01.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicyService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PolicyService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicyService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "PolicyService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:54:26.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicyService\\Class1.cs",
+              "RelativeDocumentMoniker": "PolicyService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\PolicyService\\Class1.cs",
+              "RelativeToolTip": "PolicyService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:54:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ProductService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ProductService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "ProductService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:52:38.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ProductService\\Class1.cs",
+              "RelativeDocumentMoniker": "ProductService\\Class1.cs",
+              "ToolTip": "C:\\Users\\PM\\source\\repos\\\u0110\u1EA1i l\u00FD b\u1EA3o hi\u1EC3m\\ProductService\\Class1.cs",
+              "RelativeToolTip": "ProductService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:52:15.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

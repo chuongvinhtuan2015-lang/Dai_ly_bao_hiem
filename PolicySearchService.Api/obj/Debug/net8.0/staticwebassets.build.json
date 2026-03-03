@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ivts3NigQkoe0wCoHicVm7eiYZbR6Wsj3vlVwjDGO5Y=",
+  "Source": "PolicySearchService.Api",
+  "BasePath": "_content/PolicySearchService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
