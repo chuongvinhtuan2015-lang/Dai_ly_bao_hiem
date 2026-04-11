@@ -1,0 +1,6 @@
+@AgentPortal.ApiGateway.Implementation_HostAddress = http://localhost:5259
+
+GET {{AgentPortal.ApiGateway.Implementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
